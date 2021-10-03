@@ -1,15 +1,15 @@
 {
-  "title": "John Doe",
+  "title": "DarkCourse",
   "url": "https://myurl.com/",
-  "description": "Photographer and Web Designer",
+  "description": "The golf year event lifecycle",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "All the things you need to know to get through the year.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "John Megson",
     "email": "youremailaddress@example.com"
   }
 }
