@@ -11,38 +11,38 @@ INtro about the annula calendar.
 
 ![alt text]({{ image | url }} "Chef")
 
-##October
+## October
 Prepare your calendar for the following year
-##November
+## November
 Deadline to prepare speech for AGM
 Attend club dinner
-##December
+## December
 AGM
-##January
+## January
 Captains Drvie in
 
-##February
+## February
 Past Captains' Dinner
 
-##March
+## March
 Cheltenham Open Day
 Section Sign up
 
-##April
+## April
 Qualifying Season
-##May
+## May
 Club Cup Qualifier
 
-##June
-##July
-##August
-##September
+## June
+## July
+## August
+## September
 Finals Day
-##October
+## October
 Annual |Finals
 Whisky Trot
 Turkey Trot
-##November
+## November
 Club Dinner
-##December
+## December
 AGM
