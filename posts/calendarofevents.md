@@ -24,14 +24,15 @@ Deadline to prepare speech for AGM
 Attend club dinner
 ## December
 Happening:
+* AGM
 Initiate:
 Deadline:
-AGM
+
 ## January
 Happening:
 Initiate:
 Deadline:
-Captains Drvie in
+Captains Drive in
 
 ## February
 Happening: Past Captains' Dinner
@@ -91,7 +92,15 @@ Happening: AGM
 Initiate:
 Deadline:
 AGM
-## January
+## January (Post Year)
+Happening:
+Initiate:
+Deadline:
+## Febraury (Post Year)
+Happening:
+Initiate:
+Deadline:
+## September (Post Year)
 Happening:
 Initiate:
 Deadline:
