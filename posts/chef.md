@@ -3,7 +3,7 @@ title: Chef
 description: This is a photo called chef
 date: 2018-05-05
 tags:
-  - photo
+  - notphoto
 layout: layouts/post.njk
 image: /img/w3images/chef.jpg
 ---
