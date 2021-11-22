@@ -1,6 +1,6 @@
 ---
 title: Bandmember
-description: This is a photo called bandmember
+description: Example of not used photo
 date: 2018-05-01
 tags:
   - notphoto
