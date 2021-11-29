@@ -9,7 +9,7 @@ image: /img/w3images/bgc_3hole.jpg
 ---
 Intro about the annual calendar.
 
-![alt text]({{ image | url }} "Chef")
+![alt text]({{ image | url }} "3rd Hole")
 
 ## October (pre-year)
 Happening:
