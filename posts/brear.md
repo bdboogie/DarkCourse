@@ -3,7 +3,7 @@ title: Brear
 description: Enter in case of emergency
 date: 2021-11-22
 tags:
-  - photo
+  - notphoto
 layout: layouts/post.njk
 image: /img/w3images/bumblebrear.JPG
 ---
