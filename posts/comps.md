@@ -1,5 +1,5 @@
 ---
-title: Competitions
+title: Club Competitions and Open Days
 description: This section provides advice on competitions
 date: 2021-10-19
 tags:
@@ -7,24 +7,27 @@ tags:
 layout: layouts/post.njk
 image: /img/w3images/06BGC002pano.JPG
 ---
-## Club Competitions and Open Days
+## Club Competitions
+The following competitions are open to members of the Premium and Secondary membership categories. Each compettion is defined in terms of format, number of holes, tee, handicap allowance and minimum number of entrants.
+The Competition Secretary is on hand to provide a list of competition results, qualifying players and standings for official annualised competitions.
 
-### Club Cup
-- Qualifying for the Club Cup is held traditionally alongside the May Monthly medal
-. The top 32 scores on the day (handicap sec to give you a list) progress to the match play knockout.  
-~ The rules do not state anything about seeding of players / etc… so it is down to the Captain to make the draw. 
-# The competition is off the white tees (I stated off the tee markers to ensure the 3rd hole was played from the correct teeing area)
-It is played off full handicap allowance
+Deadlines, final rulings use of ClubV1
+
+### Club Cup Qualifier
+~ Rules: Medal Strokeplay, 18 holes, white tees, full handicap, minimum 32 players. 
+- Qualifying for the Club Cup is held traditionally alongside the May Monthly Medal
+- The top 31 scores on the day progress to the match play knockout, with the previous years winner gaining automatic entry to defend their title, (brought in 2019).
+- In the event the previous winner is no longer a member of the club  the captain can decide to extend to the top 32 players or provide a bye in teh first round
+#### Knockout stage
+- The rules do not state anything about seeding of players, recent methods of selecting opponets have been the use of seeding and top playing bottom seed, AND a live draw.  The choice is the Captain's to make. 
 
 ### Ernest Grey Scratch Trophy
-This is the clubs scratch matchplay competition.
-
-The Captain will organise the draw however the players arrange their own matches.
+~ Rules: Matchplay Knockout, 18 hole match/ 36 hole final, white tees, scratch, no minimum entry. 
+- The Club's scratch matchplay competition. The Captain organises the draw however the players arrange their own matches.
 
 ### NB Myers
-The NB Myers competition is a scratch 36 hole medal stroke play competition played off the white competition tees. 
-
-A list of entrants should be known ahead of play and tees are organised by the Captain to avoid conflict with the monthly / additional medal also taking place on the day of the comp.
+~ Rules: Medal Strokeplay, 36 holes, white tees, scratch, no minimum entry. 
+- Presented by Norman B Myers this competition is a scratch 36 hole medal stroke play competition played off the white competition tees.  A list of entrants should be known ahead of play and tees are organised by the Captain to avoid conflict with the weekend medal also taking place on the day of the comp.
 
 ### DB Mann Trophy
 This is a 36 hole nett medal stroke play competition which takes place over a Saturday and Sunday (cannot be over separate weekends for handicapping reasons)
@@ -157,4 +160,3 @@ No fixed time / occasion has traditionally been set aside for this one and it is
 
 ![alt text]({{ image | url }} "PowerfulBaildon")
 
-Sed eu imperdiet augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut dignissim purus eu augue euismod, eget tempor velit ullamcorper. Cras in ullamcorper lectus. Quisque eleifend nibh eget dolor tincidunt, a facilisis mauris semper. Aenean tincidunt felis sem, eu rutrum ante posuere sed. Aliquam leo sapien, pulvinar sit amet enim sit amet, feugiat interdum felis. Aenean scelerisque pellentesque ante in pellentesque. Nulla eu sagittis ligula. Maecenas ut mauris eros. Quisque eget ipsum eget odio fermentum imperdiet. Integer rhoncus eleifend velit, eget mattis nulla auctor eget.

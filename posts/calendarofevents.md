@@ -1,5 +1,5 @@
 ---
-title: Annual Events Calendar
+title: Annual Events Planner
 description: This section provides advice on the annual events held at the golf club
 date: 2021-11-05
 tags:
@@ -11,96 +11,112 @@ Intro about the annual calendar.
 
 ![alt text]({{ image | url }} "3rd Hole")
 
-## October (pre-year)
-Happening:
-Initiate:
+## Pre Year
+### October
+Happening: Annual Medal & Stableford
+Initiate: Car Park Draw
 Deadline:
 Prepare your calendar for the following year
-## November (pre-year)
-Happening:
+### November
+Happening: BDUGC Alliance
 Initiate:
 Deadline:
 Deadline to prepare speech for AGM
 Attend club dinner
-## December
+## Year in Office
+### December
 Happening:
+* Kids Christmas Party / Car Park Draw
 * AGM
+* First Booking on
 Initiate:
-Deadline:
+Deadline: confirm arrangements for Captain's Drive in
 
-## January
-Happening:
+### January
+Happening: 
+* Captain's Drive in
+* BDUGC Annual Dinner
 Initiate:
-Deadline:
-Captains Drive in
+Deadline: 
+* Mid Jan Book table for BDUGC Annual Dinner 
+* Signing up to Daily Mail Foursomes
 
 ## February
-Happening: Past Captains' Dinner
-Initiate:
+Happening: 
+* Past Captains' Dinner
+* BDUGC Alliance
+Initiate: Advertise Enrolment Night
 Deadline:
 
 
-## March
-Happening:
-Initiate:
+### March
+Happening: 
+* Section Enrolment Night
+* Cheltenham Open Day
+* End of Winter League
+Initiate: Masters Team Comp Sign up sheet
 Deadline:
-Cheltenham Open Day
+
 Section Sign up
 
-## April
+### April
 Happening:
+* Masters Team Club
+* Start of Qualifying Season
 Initiate:
 Deadline:
 Qualifying Season
-## May
+### May
 Happening:
 Initiate:
 Deadline:
 Club Cup Qualifier
 
-## June
+### June
 Happening:
 Initiate:
 Deadline:
-## July
+### July
 Happening:
 Initiate:
 Deadline:
-## August
+### August
 Happening:
 Initiate:
 Deadline:
-## September
+### September
 Happening:
 Initiate:
 Deadline:
 Finals Day
-## October
+### October
 Happening:
 Initiate:
 Deadline:
 Annual |Finals
 Whisky Trot
 Turkey Trot
-## November
+### November
 Happening:
 Initiate:
 Deadline:
 Club Dinner
-## December
+### December
 Happening: AGM
 Initiate:
 Deadline:
 AGM
-## January (Post Year)
+
+## Post Year
+### January (Post Year)
 Happening:
 Initiate:
 Deadline:
-## Febraury (Post Year)
+### Febraury (Post Year)
 Happening:
 Initiate:
 Deadline:
-## September (Post Year)
+### September (Post Year)
 Happening:
 Initiate:
 Deadline:
