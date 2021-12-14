@@ -3,7 +3,7 @@ title: Events
 description: Further details of annual events
 date: 2021-11-22
 tags:
-  - photo
+  - notphoto
 layout: layouts/post.njk
 image: /img/w3images/eggs.jpg
 ---

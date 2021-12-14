@@ -5,7 +5,7 @@ date: 2021-11-25
 tags:
   - photo
 layout: layouts/post.njk
-image: /img/w3images/ateam.jpg
+image: /img/w3images/bdugc.jpg
 ---
 
 ## Divisional Championship

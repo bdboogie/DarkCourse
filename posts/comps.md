@@ -5,7 +5,7 @@ date: 2021-10-19
 tags:
   - photo
 layout: layouts/post.njk
-image: /img/w3images/06BGC002pano.JPG
+image: /img/w3images/clubcomps.jpg
 ---
 ## Club Competitions
 The following competitions are open to members of the Premium and Secondary membership categories. Each compettion is defined in terms of format, number of holes, tee, handicap allowance and minimum number of entrants.

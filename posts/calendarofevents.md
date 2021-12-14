@@ -5,7 +5,7 @@ date: 2021-11-05
 tags:
   - photo
 layout: layouts/post.njk
-image: /img/w3images/bgc_3hole.jpg
+image: /img/w3images/events.jpg
 ---
 Intro about the annual calendar.
 
