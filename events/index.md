@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Events
+title: Club Events
 permalink: false
 templateClass: tmpl-post
 eleventyNavigation:
