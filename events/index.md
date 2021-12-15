@@ -6,7 +6,7 @@ templateClass: tmpl-post
 eleventyNavigation:
   key: Events
   order: 2
-  url: /posts/#calendarofevents
+  url: /posts/calendarofevents.md
 ---
 
 
