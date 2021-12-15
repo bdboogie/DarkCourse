@@ -1,6 +1,6 @@
 ---
 title: BDUGC Commitments
-description: List of the commitments in the Brad Ditrict Union of Golf Clubs
+description: List of the commitments in the Bradford District Union of Golf Clubs
 date: 2021-11-25
 tags:
   - photo

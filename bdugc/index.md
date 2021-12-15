@@ -1,12 +1,12 @@
 ---
 layout: layouts/post.njk
-title: bdugc
+title: Union
 permalink: false
 templateClass: tmpl-post
 eleventyNavigation:
-  key: BDUGC
+  key: Union
   order: 3
-  url: /#about
+  url: /
 ---
 
 
