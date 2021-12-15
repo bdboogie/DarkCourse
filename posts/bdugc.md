@@ -7,11 +7,11 @@ tags:
 layout: layouts/post.njk
 image: /img/w3images/bdugcpano.jpg
 ---
-
+<header class="w3-container w3-padding-32 w3-center w3-black" id="bdugc">
 The Club support the Bradford Union and its events through annual subscription and entry in to the team and individual events.  The club provide the Captain with a list of events and notice of those supported in previous years.  The Captain signs off on the request and sorts players for the respective teams.  The Club submit application and payment for the events.
 
 ![alt text]({{ image | url }} "BDUGC Annual Dinner")
-
+</header>
 <h2>May</h2>
 
 ### Divisional Championship
