@@ -7,11 +7,11 @@ tags:
 layout: layouts/post.njk
 image: /img/w3images/bdugcpano.jpg
 ---
-<header class="w3-container w3-padding-32 w3-center w3-black" id="bdugc">
 The Club support the Bradford Union and its events through annual subscription and entry in to the team and individual events.  The club provide the Captain with a list of events and notice of those supported in previous years.  The Captain signs off on the request and sorts players for the respective teams.  The Club submit application and payment for the events.
 
 ![alt text]({{ image | url }} "BDUGC Annual Dinner")
-</header>
+
+
 <h2>May</h2>
 
 ### Divisional Championship
@@ -29,7 +29,8 @@ Strokes to be taken from the lowest handicapped player (90% difference). Four ro
 
 The Championship Trophy shall be presented to the winning team.
 
-## June
+<h2>June</h2>
+
 ### Clubmans Championship
 As a club we advertise this competition however you will not need to actively do anything as Captain to select entrants.
 
@@ -46,7 +47,8 @@ Traditionally we have entered 2 teams however as Captain you can change this. In
 An 18 Hole Stableford Team Championship from ¾ Handicap allowance.  Each Team shall consist of 3 players, who must all be members of a Member Club of the Bradford Union.  There must be at least one player from each of the Handicap ranges 0-15 and 16-28.
 The best 2 scores on each hole shall count and the Team with the highest aggregate of points for the round shall be the winners.
 
-## July
+<h2>July</h2>
+
 ### Club Officials Day
 
 To be held at Clayton
@@ -55,7 +57,8 @@ As Captain you get to invite members of the committee to take part in this one a
 
 An 18 hole Stableford Team Competition from handicap, allowance 3/4.  Each Team shall consist of 4 players - Club Captain, Club Secretary, Lady Captain and a Bradford Union Official.  Substitutes are permitted, and all participants shall be members or officials of Member Clubs of the Bradford Union.  Team selection shall be made by the Competition Secretary.  The best 2 scores on each hole shall count and the Team with the highest aggregate of points for the round shall be the winners
 
-## August
+<h2>August</h2>
+
 ### Champion Club
 To be held at Bradford
 
@@ -74,5 +77,6 @@ The winner of the Phoenix Trophy automatically gets and entry if they want to ta
 The competition shall be open to all Member Clubs who shall be entitled to enter 4 teams. Should the full allocation of places for each Member Club not be filled, those places may be taken by other Member Clubs (even though their allocation may be filled) on application to the Competition Secretary. Monies raised by way of entry fees to the competition shall be donated to a charity as specified by the Annual General Meeting prior to the event each year.
 The Trophy shall be presented to the winning club.
 
-## September
+<h2>September</h2>
+
 ### Presidents Day

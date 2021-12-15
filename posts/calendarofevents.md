@@ -11,20 +11,24 @@ Intro about the annual calendar.
 
 ![alt text]({{ image | url }} "3rd Hole")
 
-## Pre Year
-### October
+<h2>Pre Year</h2>
+
+<h3>October</h3>
 Happening: Annual Medal & Stableford
 Initiate: Car Park Draw
 Deadline:
 Prepare your calendar for the following year
-### November
+
+<h3>November</h3>
 Happening: BDUGC Alliance
 Initiate:
 Deadline:
 Deadline to prepare speech for AGM
 Attend club dinner
-## Year in Office
-### December
+
+<h2>Year in Office</h2>
+
+<h3>December</h3>
 Happening:
 * Kids Christmas Party / Car Park Draw
 * AGM
@@ -32,7 +36,7 @@ Happening:
 Initiate:
 Deadline: confirm arrangements for Captain's Drive in
 
-### January
+<h3>January</h3>
 Happening: 
 * Captain's Drive in
 * BDUGC Annual Dinner
@@ -41,7 +45,7 @@ Deadline:
 * Mid Jan Book table for BDUGC Annual Dinner 
 * Signing up to Daily Mail Foursomes
 
-## February
+<h3>February</h3>
 Happening: 
 * Past Captains' Dinner
 * BDUGC Alliance
@@ -49,74 +53,82 @@ Initiate: Advertise Enrolment Night
 Deadline:
 
 
-### March
+<h3>March</h3>
 Happening: 
 * Section Enrolment Night
 * Cheltenham Open Day
 * End of Winter League
 Initiate: Masters Team Comp Sign up sheet
 Deadline:
-
 Section Sign up
 
-### April
+<h3>April</h3>
 Happening:
 * Masters Team Club
 * Start of Qualifying Season
 Initiate:
 Deadline:
 Qualifying Season
-### May
+
+<h3>May</h3>
 Happening:
 Initiate:
 Deadline:
 Club Cup Qualifier
 
-### June
+<h3>June</h3>
 Happening:
 Initiate:
 Deadline:
-### July
+
+<h3>July</h3>
 Happening:
 Initiate:
 Deadline:
-### August
+
+<h3>August</h3>
 Happening:
 Initiate:
 Deadline:
-### September
+
+<h3>September</h3>
 Happening:
 Initiate:
 Deadline:
 Finals Day
-### October
+
+<h3>October</h3>
 Happening:
 Initiate:
 Deadline:
 Annual |Finals
 Whisky Trot
 Turkey Trot
-### November
+
+<h3>November</h3>
 Happening:
 Initiate:
 Deadline:
 Club Dinner
-### December
+
+<h3>December</h3>
 Happening: AGM
 Initiate:
 Deadline:
 AGM
 
-## Post Year
-### January (Post Year)
+<h2>Post Year</h2>
+<h3>January</h3>
 Happening:
 Initiate:
 Deadline:
-### Febraury (Post Year)
+
+<h3>Febraury</h3>
 Happening:
 Initiate:
 Deadline:
-### September (Post Year)
+
+<h3>September</h3>
 Happening:
 Initiate:
 Deadline:
