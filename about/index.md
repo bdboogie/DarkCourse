@@ -4,8 +4,8 @@ title: About Me
 permalink: false
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About
-  order: 2
+  key: 
+  order: 
   url: /#about
 ---
 

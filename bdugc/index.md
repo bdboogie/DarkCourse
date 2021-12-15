@@ -4,8 +4,8 @@ title: bdugc
 permalink: false
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About
-  order: 2
+  key: BDUGC
+  order: 3
   url: /#about
 ---
 

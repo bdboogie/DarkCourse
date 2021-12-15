@@ -6,5 +6,6 @@
     "Archive" : "fa-archive",
     "Resources" :  "fa-folder-open",
     "Events" : "fa-calander",
-    "Consultancy" : "fa-user-circle-o"
+    "Consultancy" : "fa-user-circle-o",
+    "Union"
 }

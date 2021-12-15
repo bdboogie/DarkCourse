@@ -1,12 +1,12 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: Club Events
 permalink: false
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About
+  key: Events
   order: 2
-  url: /#about
+  url: /posts/#calendarofevents
 ---
 
 
