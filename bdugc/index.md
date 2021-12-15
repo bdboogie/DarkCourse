@@ -6,7 +6,7 @@ templateClass: tmpl-post
 eleventyNavigation:
   key: Union
   order: 3
-  url: /posts/bdugc.md
+  url: /posts/bdugc/
 ---
 
 
