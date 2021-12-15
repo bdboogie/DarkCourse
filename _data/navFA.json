@@ -3,5 +3,8 @@
     "About" : "fa-user",
     "Photos" : "fa-eye",
     "Contact" : "fa-envelope",
-    "Archive" : "fa-archive"
+    "Archive" : "fa-archive",
+    "Resources" :  "fa-folder-open",
+    "Events" : "fa-calander",
+    "Consultancy" : "fa-user-circle-o"
 }
