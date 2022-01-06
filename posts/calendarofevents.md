@@ -14,15 +14,14 @@ Intro about the annual calendar.
 <h2>Pre Year</h2>
 
 <h3>October</h3>
-Happening: Annual Medal &  <br>
+Happening: Annual Medal & Stableford <br>
 Initiate: Car Park Draw <br>
-Deadline:
-Prepare your calendar for the following year <br>
+Deadline: Prepare your calendar for the following year
 
 <h3>November</h3>
 Happening: BDUGC Alliance
-Initiate:
-Deadline:
+Initiate: <br>
+Deadline: <br>
 Deadline to prepare speech for AGM
 Attend club dinner
 
@@ -32,15 +31,15 @@ Attend club dinner
 Happening:
 * Kids Christmas Party / Car Park Draw
 * AGM
-* First Booking on
-Initiate:
+* First Booking on <br>
+Initiate: <br>
 Deadline: confirm arrangements for Captain's Drive in
 
 <h3>January</h3>
 Happening: 
 * Captain's Drive in
-* BDUGC Annual Dinner
-Initiate:
+* BDUGC Annual Dinner <br>
+Initiate: <br>
 Deadline: 
 * Mid Jan Book table for BDUGC Annual Dinner 
 * Signing up to Daily Mail Foursomes
@@ -48,8 +47,8 @@ Deadline:
 <h3>February</h3>
 Happening: 
 * Past Captains' Dinner
-* BDUGC Alliance
-Initiate: Advertise Enrolment Night
+* BDUGC Alliance  <br>
+Initiate: Advertise Enrolment Night  <br>
 Deadline:
 
 
@@ -58,52 +57,52 @@ Happening:
 * Section Enrolment Night
 * Cheltenham Open Day
 * End of Winter League
-Initiate: Masters Team Comp Sign up sheet
+Initiate: Masters Team Comp Sign up sheet <br>
 Deadline:
 Section Sign up
 
 <h3>April</h3>
 Happening:
 * Masters Team Club
-* Start of Qualifying Season
-Initiate:
-Deadline:
+* Start of Qualifying Season  <br>
+Initiate:  <br>
+Deadline: <br>
 Qualifying Season
 
 <h3>May</h3>
-Happening:
-Initiate:
+Happening: <br>
+Initiate: <br>
 Deadline:
 Club Cup Qualifier
 
 <h3>June</h3>
-Happening:
-Initiate:
-Deadline:
+Happening:  <br>
+Initiate:  <br>
+Deadline: 
 
 <h3>July</h3>
-Happening:
-Initiate:
-Deadline:
+Happening:  <br>
+Initiate:  <br>
+Deadline: 
 
 <h3>August</h3>
-Happening:
-Initiate:
-Deadline:
+Happening:  <br>
+Initiate:  <br>
+Deadline: 
 
 <h3>September</h3>
-Happening:
-Initiate:
-Deadline:
+Happening:  <br>
+Initiate:  <br>
+Deadline: 
 Finals Day
 
 <h3>October</h3>
-Happening:
-Initiate:
-Deadline:
-Annual |Finals
-Whisky Trot
-Turkey Trot
+Happening:  <br>
+Initiate:  <br>
+Deadline: 
+* Annual Finals
+* Whisky Trot
+*Turkey Trot
 
 <h3>November</h3>
 Happening:
