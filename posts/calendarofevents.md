@@ -14,10 +14,10 @@ Intro about the annual calendar.
 <h2>Pre Year</h2>
 
 <h3>October</h3>
-Happening: Annual Medal & Stableford
-Initiate: Car Park Draw
+Happening: Annual Medal &  <br>
+Initiate: Car Park Draw <br>
 Deadline:
-Prepare your calendar for the following year
+Prepare your calendar for the following year <br>
 
 <h3>November</h3>
 Happening: BDUGC Alliance
