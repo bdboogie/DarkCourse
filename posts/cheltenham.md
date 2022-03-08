@@ -22,7 +22,7 @@ Prize:
 Deadline: 
 Capacity: 18 teams of 4 players
 Resources: 
-<a href="../files/BGC_Open_Timesheets.xls">signup sheet</a>
+<a href="../files/BGC_Open_Timesheets.xlsx">signup sheet</a>
 <a href="../files/Teetimes_template.pptx">tee positions</a>
 
 Comms:
