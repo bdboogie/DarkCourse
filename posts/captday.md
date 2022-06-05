@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 image: /img/w3images/captday001.jpg
 ---
-The following provides suggestion on how to organise your Captain's Day base on traditional and novel suggestions from the past.  Of course its your day so dont be afraid to go off piste and put your stamp all over it.
+The following provides suggestions on how to organise your Captain's Day based on traditional and novel ideas from the past.  Of course its your day, so dont be afraid to go off piste and put your stamp all over it.
 
 ![alt text]({{ image | url }} "Setting up the halfway house")
 
@@ -16,9 +16,9 @@ The following provides suggestion on how to organise your Captain's Day base on 
 ### Competition
 The Captain's Week usually encompasses events for a Ladies competition, the Mens competition and a Mixed competition.  The format, tees and rules are set at the discretion of the Captain but traditionally the Mens competition is a White tee medal event, this latter fact makes it easier for any gross prizes.
 ### Prizes
-The distribution of prizes again is at the Captain's discretion.  You will be expected to cover this from the coast of your membership, the competition fee of the day ( all of which is donated to your prize fund) and any additional fund you care to raise on or around the day.  
-Back in the day we had four divisions and often extended prizes to fourth & fifth place.  The prizes on offer have ranged from top end golf gear , through to electronics and even one Captain put on portraits of the course.  Discarded prizes from that latter category are still found turning up in local charity shops.  
-Special prizes put up by the Captain include the best Gross to reward your scratch players who support you playing in the league, and a prize for the past captains in recognition of all the advice and support you draw from them in your year.
+The distribution of prizes again is at the Captain's discretion.  You will be expected to cover this from the coast of your membership, the competition fee of the day (all of which is donated to your prize fund) and any additional funds you care to raise on or around the day.  
+Back in the day we had four divisions and often extended prizes to fourth & fifth place.  The prizes on offer have ranged from top end golf gear, through to electronics and even one Captain putting on portraits of the course as the main prizes.  Discarded prizes from that latter category are still found turning up in local charity shops.  
+Special prizes presented by the Captain include the best Gross to reward your scratch players who support you playing in the league, and a prize for the past captains in recognition of all the advice and support you draw from them in your year.
 A nearest the pin prize is a common feature of the day.  It has been run from most holes although only on one occasion have all four holes up for grabs.  When we had juniors they use to look after it from the second hole, the 6th is the least popular to use, the 16th helps with bringing in the measuring equipment, but if you are going to camp at the halfway hut then it makes sense to watch the attempts from the 10th.  You will be surprised at the success rate of people making the green in one, typically its about 1 in 9. 
 ### Halfway house
 Whatever you are going to provide at the halfway house remember you've got to get it there, there are several examples of captains getting their cars stuck attempting to prepare for the day or partners and family roped in to carrying cases and kegs of alcohol from the top car park down to the 10th, its a lot longer than you thinking when you're carrying 20kg.
