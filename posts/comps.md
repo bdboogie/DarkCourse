@@ -33,21 +33,22 @@ Deadlines, final rulings use of ClubV1
 This is a 36 hole nett medal stroke play competition which takes place over a Saturday and Sunday (cannot be over separate weekends for handicapping reasons)
 
 ### Carter Foursomes / Presidents Foursomes Qualifying
-This is a foursomes medal stroke play competition played off the white tees
-The top X (the president of the year gets to set the number) players will progress to the Presidents Foursomes. 
+~ Rules: Foursomes medal strokeplay. 18 holes , white teeas. Team made up of one player Hcp 1-15 and the other Hcp 16+.
+- The top X players (traditionally 16 pairs, the president of the year gets to set the number), will progress to the Presidents Foursomes. 
 
 ### Presidents Foursomes
-The qualifiers will enter a draw to take place in the Presidents Foursomes Match play competition. This draw is completed by the President (if requested the Captain can undertake this function).
+~ Rules: Foursomes matchplay competition.
+- The teams that qualified in the Carter Foursomes enter a draw to take place in the Presidents  This draw is completed by the President (if requested the Captain can undertake this function).
 
-The comp is played off the tees identified by the president. 
+The comp is played off the tees identified by the president, but traditiona has this as the white tees. 
 
 As a matchplay comp the handicap allowance is ½ the distance between the combined handicaps of each side.
 
 ### Phoenix Trophy (Charities 4BBB)
-This is a 4BBB medal stroke play comp played of the white tees
+This is a 4BBB medal stroke play comp played off the white tees
 
 ### Jubilee Rosebowl
-This is effectively a 4BBB medal stroke play comp played off white tees.
+This is effectively a modified 4BBB medal stroke play comp played off white tees.
 The fourballs are made up as follows from a drawn 3 ball
 1 x Low Handicap Player
 2 x Higher Handicap Players
@@ -72,8 +73,8 @@ A medal stroke play comp played off the white tees
 A Bogey stroke play competition played off the white tees
 
 ### Dawn Chorus
-In recent years we have played this one as a medal stroke play off the white tees.
-The format of the comp does seem to change however so the Captain has some discretion.
+~ Rules: Medal, 18 holes, white tees. Handicap limit - N/A
+- The format of the compettion  does seem to change however so the Captain has some discretion
 Two trophies are played for:
 1.	The winner
 2.	The lowest returned score (NR’s not included)
