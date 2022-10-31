@@ -11,5 +11,8 @@ image2: /img/w3images/BGC2020_sankey.png
 
 ![alt text]({{ image | url }} "finances 2021")
 
+## 2020
+<img class="img-responsive" src="../img/w3images/BGC2020_sankey.png">
 
-<img src="../img/w3images/BGC2020_sankey.png">
+## 2021 Fiance
+<img class="img-responsive" src="../img/w3images/BGC2021_sankey.png">

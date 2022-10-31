@@ -8,10 +8,11 @@ layout: layouts/post.njk
 image: /img/w3images/clubcomps.jpg
 ---
 ## Club Competitions
+
 The following competitions are open to members of the Premium and Secondary membership categories. Each compettion is defined in terms of format, number of holes, tee, handicap allowance and minimum number of entrants.
 The Competition Secretary is on hand to provide a list of competition results, qualifying players and standings for official annualised competitions.
 
-Deadlines, final rulings use of ClubV1
+## Majors
 
 ### Club Cup Qualifier
 ~ Rules: Medal Strokeplay, 18 holes, white tees, full handicap, minimum 32 players. 
@@ -30,7 +31,10 @@ Deadlines, final rulings use of ClubV1
 - Presented by Norman B Myers this competition is a scratch 36 hole medal stroke play competition played off the white competition tees.  A list of entrants should be known ahead of play and tees are organised by the Captain to avoid conflict with the weekend medal also taking place on the day of the comp.
 
 ### DB Mann Trophy
-This is a 36 hole nett medal stroke play competition which takes place over a Saturday and Sunday (cannot be over separate weekends for handicapping reasons)
+~ Medal strokeplay. 36 holes (over two days). White tees. HCP Limit: 28 HCP
+This is a 36 hole nett medal stroke play competition which takes place over a Saturday and Sunday (cannot be over separate weekends for handicapping reasons).
+
+## Weekend Comps
 
 ### Carter Foursomes / Presidents Foursomes Qualifying
 ~ Rules: Foursomes medal strokeplay. 18 holes , white teeas. Team made up of one player Hcp 1-15 and the other Hcp 16+.
@@ -39,10 +43,8 @@ This is a 36 hole nett medal stroke play competition which takes place over a Sa
 ### Presidents Foursomes
 ~ Rules: Foursomes matchplay competition.
 - The teams that qualified in the Carter Foursomes enter a draw to take place in the Presidents  This draw is completed by the President (if requested the Captain can undertake this function).
-
-The comp is played off the tees identified by the president, but traditiona has this as the white tees. 
-
-As a matchplay comp the handicap allowance is ½ the distance between the combined handicaps of each side.
+- The comp is played off the tees identified by the president, but traditiona has this as the white tees. 
+- As a matchplay comp the handicap allowance is ½ the distance between the combined handicaps of each side.
 
 ### Phoenix Trophy (Charities 4BBB)
 This is a 4BBB medal stroke play comp played off the white tees
@@ -56,7 +58,7 @@ The lower handicap player partners both of the higher handicap players effective
 This one is normally held in the early part of the season
 
 ### Middlebrook Trophy
-A medal stroke play comp played off the white tees
+A medal stroke play comp played off the white tees. HCP Limit: N/A
 This is a senior members comp (Over 60)
 
 ### KT Walker
