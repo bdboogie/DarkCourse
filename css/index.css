@@ -32,6 +32,11 @@ p,
   max-width:20em;
   height:auto
 }
+
+.w3-content{
+  max: width 50%;
+}
+
 p,
 .tmpl-post li {
   line-height: 1.45;
