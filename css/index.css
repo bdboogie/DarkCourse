@@ -34,7 +34,7 @@ p,
 }
 
 .w3-content{
-  max: width 50%;
+  max-width: 50%;
 }
 
 p,
