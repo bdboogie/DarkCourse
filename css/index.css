@@ -29,7 +29,7 @@ p,
 } 
 
 .tmpl-post img {
-  max-width:100%;
+  max-width:20em;
   height:auto
 }
 p,
